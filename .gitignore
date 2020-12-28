@@ -1,0 +1,12 @@
+.idea
+vendor
+.env
+.env.*
+ca.crt
+ca.key
+ca-configmap.yaml
+tmp
+listener
+glide.yaml.txt
+.env
+.env.dev
