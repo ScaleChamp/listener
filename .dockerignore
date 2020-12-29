@@ -1,7 +1,0 @@
-.idea
-.git
-vendor
-.env
-.gitignore
-listener
-*.md
